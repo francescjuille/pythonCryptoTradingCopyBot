@@ -1,0 +1,6 @@
+__pycache__/
+BOT.session
+TEMP/
+BOT.session-journal
+Bots/commands.txt
+commands.txt
